@@ -1,2 +1,2 @@
 # Personal-JS-task
-Tasks which were given separeted ffrom book
+Tasks which were given separeted from book
